@@ -10,7 +10,7 @@ CREATE TABLE company_dim (
 
 CREATE TABLE skills_dim ( 
   skill_id INTEGER PRIMARY KEY , 
-  SKill VARCHAR , 
+  SKills VARCHAR , 
   type VARCHAR
 ) ;
 
