@@ -12,4 +12,8 @@
 
 .read 02_load_schema_dw.sql
 
--- STEP 3 dw 
+-- STEP 3 creating flat marts 
+
+.read 03_create_flat_mart.sql 
+
+-- STEP 4 
