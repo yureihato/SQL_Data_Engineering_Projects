@@ -16,4 +16,9 @@
 
 .read 03_create_flat_mart.sql 
 
--- STEP 4 
+-- STEP 4 skills mart 
+
+.read 04_create_skills_mart.sql 
+
+-- STEP 5 
+
